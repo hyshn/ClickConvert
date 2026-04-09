@@ -1,6 +1,6 @@
 # ClickConvert
 
-![ClickConvert Banner](banner.png)
+![ClickConvert Banner](poster.png)
 
 A fast and simple image converter that works directly from the Windows right-click menu.  
 100% free. No ads. No subscriptions. No in-app purchases.
